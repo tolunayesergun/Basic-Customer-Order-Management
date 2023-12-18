@@ -1,0 +1,16 @@
+[18.12.2023 18:02:05] Bilgi: Parametre: UI.Controllers.CustomersController.Index (UI)
+-------------------------------------------
+[18.12.2023 18:02:05] Bilgi: Metod Çıkışı: UI.Controllers.CustomersController.Index (UI) | Return = Microsoft.AspNetCore.Mvc.ViewResult
+-------------------------------------------
+[18.12.2023 18:02:19] Bilgi: Parametre: UI.Controllers.CustomersController.Create (UI)
+-------------------------------------------
+[18.12.2023 18:02:19] Bilgi: Parametre: Core.Models.Entities.Customer
+-------------------------------------------
+[18.12.2023 18:02:19] Bilgi: Metod Çıkışı: UI.Controllers.CustomersController.Create (UI) | Return = Microsoft.AspNetCore.Mvc.RedirectToActionResult
+-------------------------------------------
+[18.12.2023 18:02:19] Bilgi: Parametre: UI.Controllers.CustomersController.Index (UI)
+-------------------------------------------
+[18.12.2023 18:02:19] Bilgi: Metod Çıkışı: UI.Controllers.CustomersController.Index (UI) | Return = Microsoft.AspNetCore.Mvc.ViewResult
+-------------------------------------------
+[18.12.2023 18:03:08] Bilgi: Parametre: UI.Controllers.CustomersController.Create (UI)
+-------------------------------------------
